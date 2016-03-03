@@ -1,3 +1,0 @@
-# nodebb
-
-DOcker
